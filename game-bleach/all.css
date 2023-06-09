@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+::-webkit-scrollbar {
+    display: none;
+}
+header{
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 7vw;
+    border: 0.05vw solid #000000;
+    background-color:aliceblue;
+}
+a{
+    margin-top: 2vw;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.88vw;
+    line-height: 2.29vw;
+    width: 17vw;
+    height: 4vw;
+    text-align: center;
+    color: #32BE38;
+    text-decoration: none;
+}
+main{
+    width: 80vw;
+    margin-left: 10vw;
+    margin-top: 5vw;
+}
+h1{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2vw;
+    line-height: 2.29vw;
+    color: #195e1d;
+}
+.fromgame{
+    margin-top: 3vw;
+    width: 80vw;
+    height: 40vw;
+    margin-bottom: 2vw;
+}
+footer{
+    width: 100vw;
+    height: 1.7vw;
+    border: 0.05vw solid #000000;
+    background-color:aliceblue;
+    text-align: center;
+    margin-top: 3vw;
+}
+p{
+    font-size: 1vw;
+}
+.blog{
+    margin-top: 2vw;
+    width: 50vw;
+    height: 12;
+    margin-bottom: 4vw;
+}
+.center{
+    margin-left: 30vw;
+}
+h2{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5vw;
+    line-height: 2.29vw;
+}
